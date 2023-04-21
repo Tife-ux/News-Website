@@ -1,0 +1,33 @@
+h5:hover{
+    color: rgba(252, 178, 40, 0.858);
+    cursor: pointer;
+}
+
+.nav-link:hover{
+    color: orange;
+}
+
+#button:hover{
+   background-color: rgb(241, 62, 62);
+}
+
+h6:hover{
+    color: orange;
+    cursor: pointer;
+}
+
+@media screen and (max-width:500px) {
+    #bbb{
+        width: 30vh;    
+    }
+
+    #newss{
+        display: flex;
+        flex-direction: column;
+    }
+
+    #navs{
+        margin-left: 5px;
+    }
+}
+
